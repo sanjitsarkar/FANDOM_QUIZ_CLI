@@ -1,5 +1,5 @@
 # FANDOM QUIZ CLI
-#### It's a cli based app for marvel quiz built using `nodejs`.
+#### It's a cli based app for marvel quiz built using `javscript`.
 ### `npm` packages used
 - ``chalk`` for stying terminal text.
 - ``node-localstorage`` for adding localStorage functionality in nodejs.
