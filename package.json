@@ -1,0 +1,17 @@
+{
+  "name": "fandom_quiz_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-localstorage": "^2.2.1",
+    "readline-sync": "^1.4.10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
